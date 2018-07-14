@@ -19,7 +19,7 @@ deploy:
     develop: crown-lab-backend-sandbox
     master: crown-lab-backend-dev
   on:
-    repo: kevdougful/crown-lab-backend
+    repo: pixelmixr/crown-lab-backend
 - provider: pages
   skip_cleanup: true
   local_dir: docs/
